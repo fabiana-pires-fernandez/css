@@ -1,0 +1,78 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #eadbe5;
+}
+
+.form {
+	width: 340px;
+	height: 340px;
+	background-color: #484747;
+	margin: auto;
+	margin-top: 100px;
+	border-top: 4px solid #ee4eb7;
+	padding: 30px;
+	border-radius: 10px;
+}
+
+.form h6 {
+	margin: 0;
+	color: #eadbe5;
+	font-size: 20px;
+	text-align: center;
+	height: 40px;
+	border-bottom: 1px solid;
+	margin-bottom: 30px;
+}
+
+.texto {
+	width: 95%;
+	color: white;
+	border: 1px solid #ee4eb7;
+	background-color: #212121;
+	font-size: 14px;
+	padding: 14px 8px;
+	font-weight: bold;
+	margin-bottom: 16px;
+	border-radius: 2px;
+}
+
+.botao {
+	width: 100%;
+	border: none;
+	height: 44px;
+	background-color: #ee4eb7;
+	color: #484747;
+	font-weight: bold;
+	margin-bottom: 30px;
+	cursor: pointer;
+	border-radius: 2px;
+}
+
+
+.form a {
+	text-decoration: none;
+	color: white;
+	font-family: arial;
+	font-size: 15px;
+}
+
+a:hover {
+	text-decoration: underline;
+	
+}
+
+.variaveis {
+	text-align: center;
+}
+
+.voltar {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.voltar-seta {
+	width: 30px;
+	padding: 4px;
+}
